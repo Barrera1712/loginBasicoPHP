@@ -1,6 +1,6 @@
 # loginBasicoPHP (By:Barrera Sánchez Uriel)
 
-##Configuración:
+## Configuración:
 
 
 Creación de la Base de Datos:
