@@ -1,4 +1,5 @@
 # loginBasicoPHP (By:Barrera Sánchez Uriel)
+Sistema de logueo básico utilizando PHP, HTML5, CSS3 y MySQL.
 
 ## Configuración:
 
