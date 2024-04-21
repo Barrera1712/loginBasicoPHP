@@ -19,8 +19,10 @@ El sistema cuenta con dos tipos de usuarios: cliente y administrador.
 Para registrarse como cliente, accede al sistema de registro proporcionado y sigue las instrucciones para crear una cuenta.
 - Administrador:
 Utiliza las siguientes credenciales para ingresar como administrador:
- - Usuario: Admin
- - Contraseña: Admin
+
+***Usuario:*** Admin
+
+***Contraseña:*** Admin
 
 
 ## Requisitos del Sistema:
